@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+SparseTTRegression = "000ff1ea-32e4-4bd2-a448-bf7230c61e33"
