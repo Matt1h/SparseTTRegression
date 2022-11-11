@@ -1,0 +1,18 @@
+name = "experiments"
+uuid = "69d6cbf2-3f03-4b76-9de3-374746ef28f2"
+authors = ["Matthias Holzenkamp"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SparseTTRegression = "000ff1ea-32e4-4bd2-a448-bf7230c61e33"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+julia = "1"
